@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">346321012280-cud1m5980cgimjt94gaknesq6006vmfj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">346321012280</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTwg-CaVdVhsdbB2SMbhruvBe36aVws-Y</string>
+    <string name="google_app_id" translatable="false">1:346321012280:android:c9261e26c66b8cf6c648cd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCTwg-CaVdVhsdbB2SMbhruvBe36aVws-Y</string>
+    <string name="google_storage_bucket" translatable="false">tugasleaf.appspot.com</string>
+    <string name="project_id" translatable="false">tugasleaf</string>
+</resources>
