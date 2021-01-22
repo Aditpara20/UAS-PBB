@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346321012280",
+    "project_id": "tugasleaf",
+    "storage_bucket": "tugasleaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346321012280:android:c9261e26c66b8cf6c648cd",
+        "android_client_info": {
+          "package_name": "com.example.tugasleaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346321012280-la490feav6i8qs0dh0paa188dv0e7n8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugasleaf",
+            "certificate_hash": "182419bc665fd6f9cc71c951182d0ced7013fe9a"
+          }
+        },
+        {
+          "client_id": "346321012280-cud1m5980cgimjt94gaknesq6006vmfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTwg-CaVdVhsdbB2SMbhruvBe36aVws-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346321012280-cud1m5980cgimjt94gaknesq6006vmfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
